@@ -4,7 +4,7 @@
 * [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
 * [Courses]
 * [Videos]
-* [Tools]
+* [Tools](https://github.com/XD3an/symbolic-execution-all-in-one#Tools)
 
 # Papers
 * [Symbolic execution and program testing, Communications of the ACM, James C. King](https://dl.acm.org/doi/10.1145/360248.360252)
