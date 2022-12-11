@@ -2,7 +2,6 @@
 * [awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution)
 # Table of Contents
 * [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
-* [Courses]
 * [Videos](https://github.com/XD3an/symbolic-execution-all-in-one#Videos)
 * [Tools](https://github.com/XD3an/symbolic-execution-all-in-one#Tools)
 
