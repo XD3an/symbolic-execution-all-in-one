@@ -14,7 +14,7 @@
 
 # Videos
 * [Symbolic execution Lecture (6.858 Fall 2014 Lecture 10: Symbolic execution)](https://www.youtube.com/watch?v=mffhPgsl8Ws&ab_channel=NickolaiZeldovich)
-# [Tools](https://github.com/ksluckow/awesome-symbolic-execution)
+# [Tools](https://github.com/ksluckow/awesome-symbolic-execution#tools)
 * [angr](https://angr.io/) : is an open-source binary analysis platform for Python. It combines both static and dynamic symbolic ("concolic") analysis, providing tools to solve a variety of tasks.
 
 ### Java
