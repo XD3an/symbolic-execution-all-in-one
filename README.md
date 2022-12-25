@@ -1,4 +1,4 @@
-# symbolic-execution-all-in-one
+# Symbolic Execution - All In One
 * [awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution)
 # Table of Contents
 * [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
