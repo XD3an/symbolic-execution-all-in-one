@@ -1,6 +1,6 @@
 # Symbolic Execution - All In One
 
-# Table of Contents
+## Table of Contents
 * [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
 * [Videos](https://github.com/XD3an/symbolic-execution-all-in-one#Videos)
 * [Tools](https://github.com/XD3an/symbolic-execution-all-in-one#Tools)
