@@ -1,6 +1,6 @@
 # Symbolic Execution - All In One
-* [awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution)
-## Table of Contents
+
+# Table of Contents
 * [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
 * [Videos](https://github.com/XD3an/symbolic-execution-all-in-one#Videos)
 * [Tools](https://github.com/XD3an/symbolic-execution-all-in-one#Tools)
@@ -94,3 +94,8 @@
 ### Misc
 
 * [Symbooglix](https://github.com/symbooglix/symbooglix) - Symbolic execution tool for Boogie programs.
+
+## Further reading
+
+* [awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution)
+#
