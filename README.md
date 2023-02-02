@@ -68,7 +68,7 @@
 
 ### Android
 
-* [SymDroid](https://www.cs.umd.edu/sites/default/files/scholarly_papers/QianwenLi_1.pdf): A Symbolic Executor to Identify Activity Permission in Android Application
+* [SymDroid](https://www.cs.umd.edu/sites/default/files/scholarly_papers/QianwenLi_1.pdf): A Symbolic Executor to Identify Activity Permission in Android Application.
 
 
 ### Binaries
