@@ -92,7 +92,7 @@
 
 ### Misc
 
-* [Symbooglix](https://github.com/symbooglix/symbooglix) - Symbolic execution tool for Boogie programs.
+* [Symbooglix](https://github.com/symbooglix/symbooglix): Symbolic execution tool for Boogie programs.
 
 ## Further reading
 
