@@ -1,4 +1,4 @@
-# Symbolic-Execution-all-in-one
+# symbolic-execution-all-in-one
 
 ## Table of Contents
 * [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
