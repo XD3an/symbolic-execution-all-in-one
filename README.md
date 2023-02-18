@@ -97,4 +97,4 @@
 ## Further reading
 
 * [awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution)
-#
+* [symbolic-execution-papers](https://github.com/XMUsuny/symbolic-execution-papers)
