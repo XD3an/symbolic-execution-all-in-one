@@ -13,7 +13,7 @@
 * [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://ieeexplore.ieee.org/document/7546500), 2019 International Conference on Communications, Signal Processing and Networks (ICCSPN)
     * angr
 
-## [Videos](https://github.com/ksluckow/awesome-symbolic-execution#tools)
+## [Videos](https://github.com/ksluckow/awesome-symbolic-execution#videos)
 
 ## [Tools](https://github.com/ksluckow/awesome-symbolic-execution#tools)
 
