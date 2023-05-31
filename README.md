@@ -6,10 +6,11 @@ Symbolic execution is a technique used in software testing and analysis to syste
 
 ## Table of Contents
 
+- [Key knowledges](https://github.com/XD3an/symbolic-execution-all-in-one#Key-knowledges)
 - [Papers](https://github.com/XD3an/symbolic-execution-all-in-one#Papers)
 - [Further Readings](https://github.com/XD3an/symbolic-execution-all-in-one#Further-Readings)
 
-## Key knowledge
+## Key knowledges
 
 - The concepts and method of Symbolic Execution
 - Path Explosion
